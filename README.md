@@ -8,11 +8,6 @@ In this project, I've implemented the classic Hangman game where players guess l
 
 The game starts with a hidden word, and the player guesses letters one at a time. For each incorrect guess, a part of a stick figure is drawn. The goal is to guess the word before the stick figure is fully drawn.
 
-## Screenshot
-
-Here’s a preview of the game in action:
-
-![Hangman Game](https://example.com/path-to-your-screenshot.gif) <!-- Replace with actual screenshot URL -->
 
 ## Features
 
@@ -47,9 +42,6 @@ To get started with this project:
 
 Feel free to fork the repository and submit pull requests. Contributions and feedback are welcome!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
