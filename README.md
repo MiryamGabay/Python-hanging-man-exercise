@@ -13,7 +13,6 @@ The game starts with a hidden word, and the player guesses letters one at a time
 
 - Classic Hangman gameplay
 - User-friendly interface
-- Multiple difficulty levels
 
 ## Getting Started
 
